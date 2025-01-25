@@ -7,6 +7,7 @@
 # Overview of the Project
 # Project: Build a Simple Calculator
 
+
 This project aims to develop a basic calculator that performs fundamental arithmetic operations: addition, subtraction, multiplication, and division. The calculator will operate from the command line, allowing users to input numbers and the desired operation. 
 
 **Key Features:**
